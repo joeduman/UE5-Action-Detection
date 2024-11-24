@@ -1,4 +1,4 @@
-# 678 Project: UE5-Action-Detection
+# 678 Project: UE5-Distress-Action-Detection
 
 ## Overview
 
