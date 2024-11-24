@@ -43,8 +43,6 @@ then map our learned representations to one of the six distress-related actions,
 ### Lighting Conditions:
 - Day
 - Night
-- Foggy
-- Dim
 
 ## Backgrounds:
 - Neutral environment
