@@ -7,7 +7,7 @@ We automate the generation of synthetic video data using Unreal Engine 5 (UE5) a
 human actions: injured waving, jumping, pointing, injured walked(limping), running, and holding something in pain.
 
 We pass this data through a convolutional neural network (CNN) to perform feature extraction, and follow this up by utilising 
-a Long Short-Term Memory (LSTM) network to analyze patterns within the time series data. We utilise fully connected layers to
+a Long Short-Term Memory (LSTM) network to analyze patterns within the time series data. We utilize fully connected layers to
 then map our learned representations to one of the six distress-related actions, which we may use for action classification.
 
 ## Dataset Composition
