@@ -45,7 +45,7 @@ then map our learned representations to one of the six distress-related actions,
 - Night
 
 ## Backgrounds:
-- Neutral environment
+- Neutral(plain) environment
 - Grassy environment
 - Rural environment
 
