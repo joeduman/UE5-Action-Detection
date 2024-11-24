@@ -14,23 +14,11 @@ then map our learned representations to one of the six distress-related actions,
 
 ### Mixamo Actions: 
 
-#### Waving
-<img src="./readme_assets/waving.gif" alt="Waving Animation" width="50%">
-
-#### Jumping:
-<img src="./readme_assets/jumping.gif" alt="Jumping Animation" width="50%">
-
-#### Pointing:
-<img src="./readme_assets/pointing.gif" alt="Pointing Animation" width="50%">
-
-#### Injured Walking:
-<img src="./readme_assets/injured_walking.gif" alt="Injured Walking Animation" width="50%">
-
-#### Running:
-<img src="./readme_assets/running.gif" alt="Running Animation" width="50%">
-
-#### Holding something in pain:
-<img src="./readme_assets/holding.gif" alt="Holding Animation" width="50%">
+| Waving | Jumping | Pointing |
+|--------|---------|----------|
+| <img src="./readme_assets/waving.gif" alt="Waving Animation" width="50%"> | <img src="./readme_assets/jumping.gif" alt="Jumping Animation" width="50%"> | <img src="./readme_assets/pointing.gif" alt="Pointing Animation" width="50%"> |
+| Injured Walking | Running | Holding something in pain |
+| <img src="./readme_assets/injured_walking.gif" alt="Injured Walking Animation" width="50%"> | <img src="./readme_assets/running.gif" alt="Running Animation" width="50%"> | <img src="./readme_assets/holding.gif" alt="Holding Animation" width="50%"> |
 
 
 ### Camera Profiles:
