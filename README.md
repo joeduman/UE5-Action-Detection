@@ -42,15 +42,15 @@ then map our learned representations to one of the six distress-related actions,
 
 ```
 dataset/
-├── holding/
-│   ├── holding_day_front_plain.mp4
-│   ├── holding_night_side_grassy.mp4
+├── holding_something_in_pain/
+│   ├── holding_something_in_pain_day_rural_right_30fps.mp4
+│   ├── holding_something_in_pain_night_grassy_back_30fps.mp4
 │   ...
 ├── jumping/
-│   ├── jumping_foggy_top_rural.mp4
+│   ├── jumping_day_grassy_front_30fps.mp4
 │   ...
-├── limping/
-│   ├── limping_dim_side_plain.mp4
+├── injured_walking/
+│   ├── injured_walking_night_plain_left_30fps.mp4
 │   ...
 ...
 ```
