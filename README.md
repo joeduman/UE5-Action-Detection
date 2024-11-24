@@ -14,10 +14,10 @@ then map our learned representations to one of the six distress-related actions,
 
 ### Mixamo Actions: 
 
-| Waving | Jumping | Pointing |
-|--------|---------|----------|
+| Waving              | Jumping             | Pointing            |
+|:-------------------:|:-------------------:|:-------------------:|
 | <div align="center"><img src="./readme_assets/waving.gif" alt="Waving Animation" width="50%"></div> | <div align="center"><img src="./readme_assets/jumping.gif" alt="Jumping Animation" width="50%"></div> | <div align="center"><img src="./readme_assets/pointing.gif" alt="Pointing Animation" width="50%"></div> |
-| Injured Walking | Running | Holding something in pain |
+| Injured Walking     | Running             | Holding something in pain |
 | <div align="center"><img src="./readme_assets/injured_walking.gif" alt="Injured Walking Animation" width="50%"></div> | <div align="center"><img src="./readme_assets/running.gif" alt="Running Animation" width="50%"></div> | <div align="center"><img src="./readme_assets/holding.gif" alt="Holding Animation" width="50%"></div> |
 
 ### Camera Profiles:
