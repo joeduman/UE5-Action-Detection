@@ -24,7 +24,7 @@ then map our learned representations to one of the six distress-related actions,
 ![Pointing Animation](/readme_assets/pointing.gif)
 
 #### Injured Walking:
-![Injured Walking Animation](/readme_assets/limping.gif)
+![Injured Walking Animation](/readme_assets/injured_walking.gif)
 
 #### Running:
 ![Running Animation](/readme_assets/running.gif)
