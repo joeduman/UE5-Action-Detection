@@ -4,7 +4,7 @@
 
 This project is focused on distress-related action recognition in a variety of environmental and weather conditions.
 We automate the generation of synthetic video data using Unreal Engine 5 (UE5) and UnrealCV, performing simulations of six distress-related
-human actions: injured waving, jumping, pointing, limping, running, and holding something in pain.
+human actions: injured waving, jumping, pointing, injured walked(limping), running, and holding something in pain.
 
 We pass this data through a convolutional neural network to perform feature extraction, and follow this up by utilising 
 a Long Short-Term Memory network to analyze patterns within the time series data. We utilise fully connected layers to
