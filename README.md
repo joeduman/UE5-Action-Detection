@@ -36,6 +36,8 @@ then map our learned representations to one of the six distress-related actions,
 ### Camera Profiles:
 - Front view
 - Side view
+  - Left
+  - Right
 - Top-down view
 
 ### Lighting Conditions:
