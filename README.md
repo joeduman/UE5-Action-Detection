@@ -11,7 +11,8 @@ a Long Short-Term Memory (LSTM) network to analyze patterns within the time seri
 then map our learned representations to one of the six distress-related actions, which we may use for action classification.
 
 ## Dataset Composition
-### Dataset: https://drive.google.com/drive/folders/1DkDD9Nvosfzk2pcHT7LT0ienH_ZFgdVv?usp=sharing
+
+### Dataset: [Google Drive Link](https://drive.google.com/drive/folders/1cNK0zNhGn7se6q93vj9lQyrUQG_6PUY1?usp=sharing)
 
 ### Mixamo Actions: 
 
