@@ -36,7 +36,7 @@ then map our learned representations to one of the six distress-related actions,
 ## Backgrounds:
 - Neutral(plain) environment
 - Grassy/Rural environment
-- City environment
+- Road/City environment
 
 ### File Structure:
 
