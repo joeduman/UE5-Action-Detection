@@ -33,10 +33,10 @@ then map our learned representations to one of the six distress-related actions,
 - Day
 - Night
 
-## Backgrounds:
-- Neutral(plain) environment
-- Grassy/Rural environment
-- Road/City environment
+## Backgrounds/Environments:
+- Neutral(plain)
+- Grassy/Rural
+- Road/City
 
 ### File Structure:
 
